@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Spring, Django를 공부하고 있습니다
+작성한 코드에 자부심을 가질 수 있도록 노력하고 있습니다
+합리적 이유에 기반한 커뮤니케이션을 통해 문제를 해결하고자 합니다
 <!--
 **HoomanHoo/HoomanHoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
