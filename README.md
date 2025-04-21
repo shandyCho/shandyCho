@@ -1,5 +1,5 @@
 
-# HoomanHoo
+# shandyCho
 
 ## Main Skill
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/> <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=black"/>
@@ -9,11 +9,11 @@
 
 ## ETC
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoomanHoo&layout=compact)](https://github.com/HoomanHoo/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoomanHoo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoomanHoo&layout=compact)](https://github.com/shandyCho/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shandyCho&show_icons=true&theme=radical)
 
 
 <!--
-**HoomanHoo/HoomanHoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shandyCho/shandyCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
