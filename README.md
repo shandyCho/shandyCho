@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/> <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=black"/>
 
 ## Sub Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=black"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/000000?style=flat-square&logo=rust&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=black"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=black"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white"/></a>
 
 ## ETC
 
